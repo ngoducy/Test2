@@ -21,6 +21,7 @@ public class JavaApplication1 {
         System.out.println("bonjour");
         System.out.println("Ligne ajoutée à partir de Git> Edit file");
         System.out.println("Ligne vide");
+        System.out.println("Salut");
     }
     
 }
